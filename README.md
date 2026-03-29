@@ -1,6 +1,6 @@
 # BlueOSDoc
 
-BlueOSDoc 抓取 [vivo BlueOS 应用开发文档](https://developers-watch.vivo.com.cn/) 并将其转换为 Markdown，方便离线查阅、二次整理和托管到 GitHub。
+BlueOSDoc 抓取 [vivo BlueOS 应用开发文档](https://developers-watch.vivo.com.cn/) 并将其转换为 Markdown，供BlueOS开发者使用。
 
 当前仓库已经包含一份抓取结果，输出目录为 `docs/`。
 
@@ -61,4 +61,6 @@ python docs.py
 
 ## 许可证
 
-仓库中的脚本用于学习交流。`docs/` 内容来自 vivo BlueOS 官方开发文档，请勿用于侵犯原站权益的用途。
+仓库中的抓取脚本、工作流和辅助文件采用 GPL-3.0 许可证，详见 `LICENSE`。
+
+`docs/` 内容来自 vivo BlueOS 官方开发文档，原始内容版权归对应权利方所有，请勿用于侵犯原站权益的用途。

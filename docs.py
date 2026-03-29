@@ -951,7 +951,7 @@ def build_parser() -> argparse.ArgumentParser:
         "-o",
         "--output",
         default="docs",
-        help="输出目录，默认: blueos_quickapp_docs_md",
+        help="输出目录，默认: docs",
     )
     parser.add_argument(
         "--seed",
