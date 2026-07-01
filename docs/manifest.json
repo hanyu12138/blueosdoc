@@ -2,7 +2,7 @@
   "base_url": "https://developers-watch.vivo.com.cn",
   "doc_scope": "blueos-common-docs",
   "output_format": "markdown",
-  "generated_at": "2026-06-01 11:45:17",
+  "generated_at": "2026-07-01 11:34:32",
   "page_count": 173,
   "error_count": 8,
   "pages": [
@@ -11049,31 +11049,31 @@
     },
     {
       "path": "/reference/perf-guide/perf-sample/",
-      "error": "页面不存在或已重定向到 404"
+      "error": "404 Client Error: Not Found for url: https://developers-watch.vivo.com.cn/reference/perf-guide/perf-sample/?hastopwindow=1"
     },
     {
       "path": "/component/basic/a/About/",
-      "error": "页面不存在或已重定向到 404"
+      "error": "404 Client Error: Not Found for url: https://developers-watch.vivo.com.cn/component/basic/a/About/?hastopwindow=1"
     },
     {
       "path": "/component/extend/long-list/",
-      "error": "页面不存在或已重定向到 404"
+      "error": "404 Client Error: Not Found for url: https://developers-watch.vivo.com.cn/component/extend/long-list/?hastopwindow=1"
     },
     {
       "path": "/component/common/private-animation/",
-      "error": "页面不存在或已重定向到 404"
+      "error": "404 Client Error: Not Found for url: https://developers-watch.vivo.com.cn/component/common/private-animation/?hastopwindow=1"
     },
     {
       "path": "/component/container/widget-container/",
-      "error": "页面不存在或已重定向到 404"
+      "error": "404 Client Error: Not Found for url: https://developers-watch.vivo.com.cn/component/container/widget-container/?hastopwindow=1"
     },
     {
       "path": "/component/extend/compass/",
-      "error": "页面不存在或已重定向到 404"
+      "error": "404 Client Error: Not Found for url: https://developers-watch.vivo.com.cn/component/extend/compass/?hastopwindow=1"
     },
     {
       "path": "/api/private/call/",
-      "error": "页面不存在或已重定向到 404"
+      "error": "404 Client Error: Not Found for url: https://developers-watch.vivo.com.cn/api/private/call/?hastopwindow=1"
     }
   ]
 }
